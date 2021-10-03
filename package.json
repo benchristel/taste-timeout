@@ -1,0 +1,15 @@
+{
+  "name": "@benchristel/taste-timeout",
+  "version": "0.0.0",
+  "description": "Timeouts for async Taste tests",
+  "main": "index.js",
+  "author": "Ben Christel <bchristel@pivotal.io>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@benchristel/taste": "^0.1.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
